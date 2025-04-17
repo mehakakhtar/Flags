@@ -1,0 +1,68 @@
+.flag1 {
+    width: 400px;
+    height: 250px;
+    background-color: #e41b17; 
+    position: relative;
+    border: 2px solid black;
+  }
+  
+  .flag1 img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: relative;
+  left: 120px;
+  top: 65px;
+  }
+
+/*2nd flag*/
+
+  .flag2 {
+    width: 400px;
+    height: 255px;
+    border: 1px solid black;
+  }
+  
+  .hw {
+    height: 85px;
+    width: 100%;
+  }
+  
+  .top {
+    background-color:white;
+  }
+  
+  .middle {
+    background-color: green;
+  }
+  
+  .bottom {
+    background-color: red;
+  }
+  
+  /*3rd flag*/
+  .flag3 {
+    width: 400px;
+    height: 250px;
+    display: inline-flex;
+    border: 1px solid black;
+  }
+  
+  .wh {
+    width: 33.33%;
+    height: 100%;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
